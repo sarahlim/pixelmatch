@@ -15,7 +15,7 @@
     "tap": "^6.3.0"
   },
   "scripts": {
-    "pretest": "eslint index.js bin/pixelmatch test/test.js",
+    "pretest": "",
     "test": "tap test/test.js -t 80"
   },
   "repository": {
